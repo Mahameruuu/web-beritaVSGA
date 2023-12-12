@@ -1,5 +1,3 @@
-ini merupakan TA sederhana dalam memenuhi tugas penyelesaian pelatihan Diditalent JWD Surababaya 2023
-dengan bahasa pemrograman PHP dan menggunakan MariaDB
+ini merupakan TA sederhana dalam memenuhi tugas penyelesaian pelatihan Junioar Web Development VSGA KOMINFO 2023
+dengan bahasa pemrograman PHP (backend), bootsrap (frontend) dan menggunakan MariaDB
 bisa login dengan
-username : solikin@mail.com
-password : 11111111 
